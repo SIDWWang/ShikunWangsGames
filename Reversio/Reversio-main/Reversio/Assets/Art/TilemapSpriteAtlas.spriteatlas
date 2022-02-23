@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TilemapSpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+    totalSpriteSurfaceArea: 27648
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -678772672637301170, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -3915313754043534911, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 8932438492173667788, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -7334722943937743780, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 134726431490979652, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 8575783004575917173, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 421049609425465993, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -9129442465117542575, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -392609722681531785, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -1571462566642774415, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -8780999277335152708, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 8033335473792056554, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -9157253083624354667, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -3732835876168194429, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -8237978946575742443, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 1111731322685878932, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -4444767370869077700, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -8257108918767837107, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 3029403389019736604, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -5788950771836897288, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 2404392544732809699, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -3195900868739617005, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 7102118821638975221, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -5327797668984093513, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: -2401530847761735661, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 8317292549449645410, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  - {fileID: 1765923152520587147, guid: a45e7ce80c6e0d549b9906b171f7670e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - TilemapMario_22
+  - TilemapMario_23
+  - TilemapMario_20
+  - TilemapMario_21
+  - TilemapMario_26
+  - TilemapMario_24
+  - TilemapMario_25
+  - TilemapMario_17
+  - TilemapMario_16
+  - TilemapMario_15
+  - TilemapMario_14
+  - TilemapMario_13
+  - TilemapMario_12
+  - TilemapMario_11
+  - TilemapMario_10
+  - TilemapMario_19
+  - TilemapMario_18
+  - TilemapMario_8
+  - TilemapMario_9
+  - TilemapMario_4
+  - TilemapMario_5
+  - TilemapMario_6
+  - TilemapMario_7
+  - TilemapMario_0
+  - TilemapMario_1
+  - TilemapMario_2
+  - TilemapMario_3
+  m_RenderDataMap: {}
+  m_Tag: TilemapSpriteAtlas
+  m_IsVariant: 0
